@@ -45,3 +45,26 @@ section{
     background-repeat: no-repeat;
     background-position:right;
 }
+.Experience-area{
+    background-image: url(images/pictures2/exp-bg.png.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.Experience-item{
+    width: 45%;
+    margin: 10px 5px 10px;
+    padding-bottom: 20px;
+    margin-left: 2%;
+    box-shadow: 5px 7px 40px gray;
+    border-radius: 10px;
+}
+#web-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(188deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#junior-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(188deg,blue,cyan);
+    border-image-slice: 1;
+}
